@@ -1,4 +1,15 @@
-body
-{
-background-color:97556C;
+body{
+    background:#D9BCFF;
+    color:#C5CFED;
+    width:100%;
+    font-family:sans-serif;
+    margin:0 auto;
+}
+.header{
+    width:90%;
+    margin:auto;
+    height:120px;
+    line-height:120px;
+    background:#C5CFED;
+    color:#9EAAE0;
 }
