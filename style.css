@@ -58,20 +58,20 @@ body{
     padding-bottom:1pc;
     padding-left:2pc;
     padding-right:2pc;
-    background:#ffeccf;
+    background:#fff;
 }
 .kiri{
     width:70%;
     float:left;
     margin:auto;
-    background:#fff;
+    background:#ffeccf;
     height:420px;
 }
 .kanan{
     width:30%;
     float:left;
     margin:auto;
-    background:#fff;
+    background:#ffeccf;
     height:420px;
 }
 .undecor{
