@@ -50,6 +50,7 @@ body{
     padding:0.1px;
     background:#ffeccf;
     color:#383a4d;
+    overflow:hidden;
 }
 .border{
     border:2px solid #50698D;
