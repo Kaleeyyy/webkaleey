@@ -20,22 +20,25 @@ body{
     position:relative;
     width:90%;
     margin:0 auto;
-    padding:0 auto;
+    padding:0;
 }
-.menu ul {
+.menu ul{
     list-style:none;
+    margin:0;
+    padding:0;
 }
-.menu ul li a {
+.menu ul li a{
     float:left;
-    width:70px;
     display:block;
+    padding:0 20px; 
     text-align:center;
     color:#FFF;
     text-decoration:none;
+    transition:0.3s;
 }
-.menu ul li a:hover {
-    background-color:#50698D;
-    display:block;
+.menu ul li a:hover{
+    background-color:#102B53; 
+    color:#FFD100;
 }
 .jarak{
     padding: 0 2pc;
